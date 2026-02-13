@@ -1,0 +1,7 @@
+[package]
+name = "medication_tracker"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# الملف ده حالياً فاضي من المكتبات الخارجية عشان يضمن إن الكود الأساسي يشتغل
